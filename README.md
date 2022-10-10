@@ -29,3 +29,7 @@ from dotenv import load_dotenv
 # Usage
 this file use sklearn machine learning library to predict apple stock
 ---
+# Result
+<img src = "./Pics/result01.jpg">
+<img src = "./Pics/result02.jpg">
+<img src = "./Pics/appl.jpg">
